@@ -9,6 +9,7 @@ const Hero = () => {
             </div>
             <div className="flexCenter hero-right">
 
+<div></div>
             </div>
         </div>
     </section>
