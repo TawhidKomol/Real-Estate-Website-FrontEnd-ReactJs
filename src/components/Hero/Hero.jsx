@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "./Hero.css"
 const Hero = () => {
   return (
     <section className="hero-wrapper">
@@ -8,8 +8,9 @@ const Hero = () => {
                 Left Section
             </div>
             <div className="flexCenter hero-right">
-
-<div></div>
+              <div className="image-container">
+                <img src="./hero-image.png" alt="" />
+              </div>
             </div>
         </div>
     </section>
